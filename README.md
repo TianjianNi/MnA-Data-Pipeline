@@ -1,2 +1,3 @@
 # MnA-Data-Pipeline
-NYU Vertically Integrated Projects
+
+Demo of data pipeline to download MnA data from Refinitiv through Eikon Data API
